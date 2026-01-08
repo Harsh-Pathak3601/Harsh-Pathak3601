@@ -16,15 +16,14 @@
 ---
 ### 🚀 About Me
 - 🎓 2nd Year AIML Student  
-- 💻 Practicing **DSA**, **Web Development**, and **Machine Learning**
-- 🌱 Currently learning **JavaScript, React & Backend**
+- 🌱 Currently learning **DSA(Data Structure & Algoithm) & Web Development**
 - 💬 Ask me about **Full Stack Web apps, Mern stack projects, Python**
 - ⚡ Fun fact: I love building clean UIs & solving logic problems
 
 ---
 
 
-### 🌐 Connect With Me
+### 🌍 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/harsh-pathak-199503370">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
