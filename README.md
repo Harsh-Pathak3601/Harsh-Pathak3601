@@ -65,6 +65,7 @@
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=130&section=footer&text=Thank%20You%20for%20Visiting%20&fontSize=26&fontColor=ffffff&animation=fadeIn" />
 </div>
+
 
