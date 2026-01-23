@@ -2,6 +2,11 @@
 <h3 align="center">Learning DSA | Building solutions with code, curiosity, and consistency.</h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=HARSH&repeat=false&runonce=true" alt="Harsh" />
+</p>
+
+---
 
 
 
