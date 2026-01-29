@@ -1,4 +1,4 @@
-<h1 align="center" id="top">Hi 👋, I'm Harsh Pathak</h1>
+<h1 align="center">Hi 👋, I'm Harsh Pathak</h1>
 <h3 align="center">Learning DSA | Building solutions with code, curiosity, and consistency.</h3>
 
 ---
@@ -102,12 +102,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=130&section=footer&text=Thank%20You%20for%20Visiting%20&fontSize=26&fontColor=ffffff&animation=fadeIn" />
      <p>
-    <i>Thank you for visiting my profile! Feel free to explore my repositories and connect with me.</i><br>
-  </p>
-  <p>
-  <a href="#top">
-  <img src="https://img.shields.io/badge/Back%20to%20the%20Stars-4361EE?style=for-the-badge&logo=rocket&logoColor=white" alt="Back to Top"/>
-</a>
+    <i>
+      Feel free to explore my repositories, star what you like ⭐,<br/>
+      and connect with me for collaboration or ideas!
+    </i>
   </p>
 </div>
 
