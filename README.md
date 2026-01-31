@@ -39,8 +39,10 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github" alt="tech icons"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,figma,vercel" alt="tech icons"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" width="50" height="50" alt="Render"/>
+  <img src="https://skillicons.dev/icons?i=netlify,redux,vercel" alt="tech icons"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="48" alt="React Router" />
+
+  
 </p>
 
 ---
