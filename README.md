@@ -30,7 +30,7 @@
 <h2 align="left">🚀 My Skills & Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,cpp" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,cpp,java" alt="tech icons"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" alt="tech icons"/>
