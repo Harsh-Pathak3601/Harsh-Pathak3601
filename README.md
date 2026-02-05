@@ -89,18 +89,6 @@
 
 
 ---
-
-
-
-<div align="center">
-
-**🌟 Made with ❤️ by [Harsh Pathak](https://github.com/Harsh-Pathak3601) 🌟**
-
-*"Code is poetry written in logic, and I'm here to compose symphonies!"* 🎵
-
-</div>
-
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=130&section=footer&text=Thank%20You%20for%20Visiting%20&fontSize=26&fontColor=ffffff&animation=fadeIn" />
      <p>
