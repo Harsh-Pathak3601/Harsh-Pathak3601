@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=python,react,nodejs,cpp,java" alt="tech icons"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,expressjs" alt="tech icons"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github" alt="tech icons"/>
