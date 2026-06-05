@@ -21,7 +21,7 @@
 
 ---
 ### 🚀 About Me
-- 🎓 2nd Year AIML Student  
+- 🎓 3rd Year AIML Student  
 - 🌱 Currently learning **DSA(Data Structure & Algoithm) & Web Development**
 - 💬 Ask me about **Full Stack Web apps, Mern stack projects, Python**
 - ⚡ Fun fact: I love building clean UIs & solving logic problems
